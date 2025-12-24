@@ -46,9 +46,9 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### Upcoming trips
 
-- <small>Oct 3-5 2025: the 5th biennial meeting of the Pacific Northwest Section of SIAM (SIAM PNWS), University of Washington, Seattle, WA</small>
+- <small> June 16-19 2026: 10th Pacific Rim Conference of Mathematics, NTU, Taipei </small>
 
-- <small>Aug 18-Dec 19 2025: Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods [Link](https://www.slmath.org/programs/357), SLMath (former MSRI), Berkeley, CA</small>
+- <small> August 2026: Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods [Link](https://www.slmath.org/programs/357), SLMath (former MSRI), Berkeley, CA</small>
 
 
 <small><em>Feature image: [Sunset outside the SFU Math department](https://weiran-sun.github.io/assets/images/Math-Sunset.png)</em></small>  
