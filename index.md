@@ -18,7 +18,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
   
 - <i>Just accepted (Oct 2025) </i>:
   
-  <small>[The $mathcal{M}$-Operator and Uniqueness of Nonlinear Kinetic Equations](https://arxiv.org/abs/2506.20775) <small>
+  <small>[The $\mathcal{M}$-Operator and Uniqueness of Nonlinear Kinetic Equations](https://arxiv.org/abs/2506.20775) <small>
   
   <small>R. Alonso, M.P. Gualdani and W. Sun, Pure and Applied Functional Analysis, Special Issue on PDE and Applied Mathematics dedicated to Professor Peter Constantin on the occasion of his 75th Birthday, 2025.</small>
 
