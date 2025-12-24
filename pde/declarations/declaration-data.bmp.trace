@@ -1,0 +1,17 @@
+{"synthetic": false,
+ "outputs": null,
+ "log":
+ [{"message": "Documentation indexing", "level": "info"},
+  {"message":
+   ".> /Users/chenwydj/Documents/Research/pde/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4 index --build /Users/chenwydj/Documents/Research/pde/.lake/build",
+   "level": "trace"}],
+ "inputs":
+ [["/Users/chenwydj/Documents/Research/pde/.lake/packages/doc-gen4/.lake/build/bin/doc-gen4",
+   "13373513328055668456"],
+  ["<nil>", "1383784361690032856"],
+  ["<collection>",
+   [["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE/Basics/Heat/HeatKernel.html",
+     "6873585675922411359"],
+    ["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE.html",
+     "2982334154492969492"]]]],
+ "depHash": "8320552518748040264"}
