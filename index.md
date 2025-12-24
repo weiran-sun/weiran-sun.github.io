@@ -18,7 +18,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <i> **Our PDE Formalization Page Is Now Live!**
 
-   Click on "Formalization" tab to check it out. We closely follow the textbook
+   Check out the "Formalization" tab for details. We closely follow the textbook
 
    Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. 
   
