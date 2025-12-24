@@ -46,10 +46,9 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### Upcoming trips
 
-- <small> June 16-19 2026: 10th Pacific Rim Conference of Mathematics
-  [Link](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15598), NTU, Taipei</small>
+- <small> June 16-19 2026: [10th Pacific Rim Conference of Mathematics](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15598), NTU, Taipei</small>
 
-- <small> August 2026: Recent Breakthroughs and New Perspectives on the Interplay between Fluid Mechanics and Kinetic Theory [Link](https://www.birs.ca/events/2026/5-day-workshops/26w5611), Banff, AB, Canada</small>
+- <small> August 16-21 2026: [Recent Breakthroughs and New Perspectives on the Interplay between Fluid Mechanics and Kinetic Theory](https://www.birs.ca/events/2026/5-day-workshops/26w5611), Banff, AB, Canada</small>
 
 
 <small><em>Feature image: [Sunset outside the SFU Math department](https://weiran-sun.github.io/assets/images/Math-Sunset.png)</em></small>  
