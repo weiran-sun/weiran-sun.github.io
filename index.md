@@ -26,9 +26,6 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
   <small>Kye just won the Governor General’s Silver Medal, awarded to the two undergraduate students who achieve the highest scholastic standing upon graduation from a bachelor’s degree program. (See the announcement [here](https://www.sfu.ca/convocation/speakers-and-recipients/medal-recipients.html))</small>
 
-- <i> Conference organization (Oct 2025) </i>:
-
-  <small> The organization of the 5th SIAM Pacific Northwest Section (PNWS) Biennial Meeting is ongoing. Visit [this webpage](https://sites.google.com/view/2025siampnwconference/home) for updates!</small>
 
 - <i>Just accepted (May 2025) </i>:
 
@@ -49,9 +46,9 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### Upcoming trips
 
-- <small>Oct 3-5 2025: the 5th biennial meeting of the Pacific Northwest Section of SIAM (SIAM PNWS), University of Washington, Seattle, WA</small>
+- <small> June 16-19 2026: 10th Pacific Rim Conference of Mathematics, NTU, Taipei </small>
 
-- <small>Aug 18-Dec 19 2025: Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods [Link](https://www.slmath.org/programs/357), SLMath (former MSRI), Berkeley, CA</small>
+- <small> August 2026: Kinetic Theory: Novel Statistical, Stochastic and Analytical Methods [Link](https://www.slmath.org/programs/357), SLMath (former MSRI), Berkeley, CA</small>
 
 
 <small><em>Feature image: [Sunset outside the SFU Math department](https://weiran-sun.github.io/assets/images/Math-Sunset.png)</em></small>  
