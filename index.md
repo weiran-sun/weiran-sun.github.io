@@ -16,9 +16,11 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <i> **Recruiting** </i>: Prof. Wuyang Chen and myself are seeking graudate students with a strong background in PDE analysis to work with us on the formalization of PDEs.
 
-- <i> **Our PDE Formalization Page Is Now Live!** Click on "Formalization" tab to check it out. We closely follow the textbook
+- <i> **Our PDE Formalization Page Is Now Live!**
 
-Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. 
+   Click on "Formalization" tab to check it out. We closely follow the textbook
+
+   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. 
   
 - <i>Just accepted (Oct 2025) </i>:
   
