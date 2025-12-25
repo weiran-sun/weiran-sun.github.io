@@ -122,6 +122,8 @@ navigation_header:
   url: /
 - title: Publications
   url: /Publications/
+- title: Formalization
+  url: /pde/
 - title: Group
   url: /group/
 - title: CV

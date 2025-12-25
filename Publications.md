@@ -11,9 +11,11 @@ My papers and preprints can be found on [arXiv](https://arxiv.org/search/?query=
 
 ### List of publications
 <small><em>Student or postdoctoral co-authors are indicated by an asterisk.</em></small>
+1. <small>Uniqueness for the Homogeneous Landau-Coulomb Equation in $L^{3/2}$, M.P. Gualdani and W. Sun, arXiv:2512.20899, 2025. </small>
+
 1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, submitted, 2025. </small>
 
-1. <small>The $mathcal{M}$-Operator and Uniqueness of Nonlinear Kinetic Equations, R. Alonso, M.P. Gualdani and W. Sun, submitted, 2025. </small>
+1. <small>The $\mathcal{M}$-Operator and Uniqueness of Nonlinear Kinetic Equations, R. Alonso, M.P. Gualdani and W. Sun, Pure and Applied Functional Analysis, Special Issue on PDE and Applied Mathematics dedicated to Professor Peter Constantin on the occasion of his 75th Birthday, 2025. </small>
 
 1. <small>PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs , M. Soroco\*, J. Song\*, M. Xia\*, K. Emond\*, W. Sun and W. Chen, accepted, ICML, 2025. </small>  
 

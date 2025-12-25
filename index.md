@@ -14,7 +14,23 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
-- <i> **Recruiting** </i>: I am seeking graudate students with a strong background in PDE analysis to work with me and Prof. Wuyang Chen on the formalization of PDEs. 
+- <i> **Recruiting** </i>: Prof. Wuyang Chen and I are seeking graudate students with a strong background in PDE analysis to work with us on the formalization of PDEs.
+
+- <i> **Our PDE Formalization Page Is Now Live!**
+
+  <small> Check out the "Formalization" tab for details. We closely follow the textbook
+
+   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. <small>
+
+- <i> **LEAN Finder**
+
+  <small> Check out [LEAN Finder](https://huggingface.co/spaces/delta-lab-ai/Lean-Finder), our search engine for semantic search for Mathlib that understands user intents. <small>
+
+- <i> New preprint (Dec 2025) </i>:
+  
+  <small> [Uniqueness for the Homogeneous Landau-Coulomb Equation in L^{3/2}](https://arxiv.org/abs/2512.20899) <small>
+  
+  <small> M.P. Gualdani and W. Sun, arXiv:2512.20899, 2025. </small>
   
 - <i>Just accepted (Oct 2025) </i>:
   
