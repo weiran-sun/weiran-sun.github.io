@@ -20,7 +20,11 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
    Check out the "Formalization" tab for details. We closely follow the textbook
 
-   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. 
+   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022.
+
+- <i> New preprint (Dec 2025) </i>:
+  <small> [Uniqueness for the Homogeneous Landau-Coulomb Equation in L^{3/2}](https://arxiv.org/abs/2512.20899) <small>
+  <small> M.P. Gualdani and W. Sun, 2025. </small>
   
 - <i>Just accepted (Oct 2025) </i>:
   
