@@ -18,13 +18,13 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <i> **Our PDE Formalization Page Is Now Live!**
 
-   Check out the "Formalization" tab for details. We closely follow the textbook
+  <small> Check out the "Formalization" tab for details. We closely follow the textbook
 
-   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022.
+   Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. <small>
 
 - <i> **LEAN Finder**
 
-   Check out [LEAN Finder](https://huggingface.co/spaces/delta-lab-ai/Lean-Finder), our search engine for semantic search for Mathlib that understands user intents.
+  <small> Check out [LEAN Finder](https://huggingface.co/spaces/delta-lab-ai/Lean-Finder), our search engine for semantic search for Mathlib that understands user intents. <small>
 
 - <i> New preprint (Dec 2025) </i>:
   
