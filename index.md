@@ -22,6 +22,10 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
    Partial Differential Equations: A First Course, R. Choksi, AMS, 2022.
 
+- <i> **LEAN Finder**
+
+   Check out [LEAN Finder](https://huggingface.co/spaces/delta-lab-ai/Lean-Finder), our search engine for semantic search for Mathlib that understands user intents.
+
 - <i> New preprint (Dec 2025) </i>:
   
   <small> [Uniqueness for the Homogeneous Landau-Coulomb Equation in L^{3/2}](https://arxiv.org/abs/2512.20899) <small>
