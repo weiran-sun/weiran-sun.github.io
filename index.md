@@ -26,7 +26,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
   
   <small> [Uniqueness for the Homogeneous Landau-Coulomb Equation in L^{3/2}](https://arxiv.org/abs/2512.20899) <small>
   
-  <small> M.P. Gualdani and W. Sun, 2025. </small>
+  <small> M.P. Gualdani and W. Sun, arXiv:2512.20899, 2025. </small>
   
 - <i>Just accepted (Oct 2025) </i>:
   
