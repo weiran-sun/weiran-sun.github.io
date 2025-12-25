@@ -11,7 +11,11 @@
   ["<nil>", "1383784361690032856"],
   ["<collection>",
    [["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE/Basics/Heat/HeatKernel.html",
-     "6873585675922411359"],
+     "15547840223683322517"],
+    ["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE/Basics/Heat/HeatSolution.html",
+     "6418994273140679779"],
+    ["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE/Basics/Heat/HeatSolutionProperty.html",
+     "11333561184472016197"],
     ["/Users/chenwydj/Documents/Research/pde/.lake/build/doc/PDE.html",
-     "2982334154492969492"]]]],
- "depHash": "8320552518748040264"}
+     "5194483205899880546"]]]],
+ "depHash": "13340233238169060136"}
