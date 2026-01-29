@@ -26,7 +26,12 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
   <small> Check out [LEAN Finder](https://huggingface.co/spaces/delta-lab-ai/Lean-Finder), our search engine for semantic search for Mathlib that understands user intents. <small>
 
-- <i> New preprint (Dec 2025) </i>:
+- <i> Just accepted (Jan 2026) </i>:
+  <small> [Lean Finder: Semantic Search for Mathlib That Understands User Intents] (https://arxiv.org/abs/2510.15940) </small>
+  
+  <small> Jialin Lu, Kye Emond, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026 </small>
+  
+- <i> Just Submitted (Jan 2026) </i>:
   
   <small> [Uniqueness for the Homogeneous Landau-Coulomb Equation in L^{3/2}](https://arxiv.org/abs/2512.20899) <small>
   
