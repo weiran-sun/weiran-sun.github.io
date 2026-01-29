@@ -12,7 +12,6 @@ excerpt: "Research Group"
   - Kshitij Patil, 2024-present (co-supervisor)
   - Matt Spragge, 2022-present
 - MSc students
-  - Chenny Chen, 2024-present (co-supervisor)
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
   - Rodrigo Stehling, Fall 2025-present
