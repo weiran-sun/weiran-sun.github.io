@@ -28,9 +28,9 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <i> Just accepted (Jan 2026) </i>:
   
-  <small> [Lean Finder: Semantic Search for Mathlib That Understands User Intents](https://arxiv.org/abs/2510.15940) </small>
+  <small> [Lean Finder: Semantic Search for Mathlib That Understands User Intents](https://openreview.net/forum?id=5XNnnbEcu5) </small>
   
-  <small> Jialin Lu, Kye Emond, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026 </small>
+  <small> Jialin Lu, Kye Emond, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026 [arXiv Link](https://arxiv.org/abs/2510.15940)</small>
   
 - <i> Just Submitted (Jan 2026) </i>:
   
