@@ -19,6 +19,7 @@ excerpt: "Research Group"
 ### Past supervision
 
 - Postdoc
+  - Kunlun Qi, Aug-Dec 2025 (MSRI/SLMath)
   - Hui Huang, 2017-2019 (co-supervisor)
 - MSc students
   - Matt Spragge, 2020-2022
