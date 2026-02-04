@@ -15,6 +15,8 @@ excerpt: "Research Group"
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
   - Rodrigo Stehling, Fall 2025-present
+- Visiting student
+  - Danilo Andrés Castañeda Baquedano, Feb-Mar, 2026
 
 ### Past supervision
 
