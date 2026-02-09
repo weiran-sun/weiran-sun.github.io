@@ -68,7 +68,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### Upcoming trips
 
-- <small> March-April 2026: Visit to UT Austin, TX </small>
+- <small> March 24-April 30 2026: Visit to UT Austin, TX </small>
 
 - <small> June 16-19 2026: [10th Pacific Rim Conference of Mathematics](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15598), NTU, Taipei</small>
 
