@@ -14,8 +14,6 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
-- <i> **Recruiting** </i>: Prof. Wuyang Chen and I are seeking graudate students with a strong background in PDE analysis to work with us on the formalization of PDEs.
-
 - <i> **Our PDE Formalization Page Is Now Live!**
 
   <small> Check out the "Formalization" tab for details. We closely follow the textbook
