@@ -8,7 +8,7 @@ excerpt: "Research Group"
 ### Current supervision
 
 - PhD students
-  - Luciano Andrés Gajardo Chamblas, 2025-present
+  - Luciano Andrés Gajardo Chamblas, 2025-present (senior supervisor)
   - Kshitij Patil, 2024-present (co-supervisor)
   - Matt Spragge, 2022-present
 - MSc students
