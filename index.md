@@ -19,6 +19,8 @@ I also enjoy working with researchers in other disciplines and providing mathema
   <small> Check out the "Formalization" tab for details. We closely follow the textbook
 
    Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. <small>
+   
+   The Github page is at: https://github.com/weiran-sun/pde
 
 - <i> **LEAN Finder**
 
