@@ -20,7 +20,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
    Partial Differential Equations: A First Course, R. Choksi, AMS, 2022. <small>
    
-   The Github page is at: https://github.com/weiran-sun/pde
+   The Github page is at: [](https://github.com/weiran-sun/pde)
 
 - <i> **LEAN Finder**
 
