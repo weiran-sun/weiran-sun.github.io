@@ -15,8 +15,8 @@ excerpt: "Research Group"
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
   - Rodrigo Stehling, Fall 2025-present
-- Visiting student
-  - Danilo Andrés Castañeda Baquedano, Feb-Mar, 2026
+  - Anthony Chan, Summer 2026
+  
 
 ### Past supervision
 
@@ -40,6 +40,7 @@ excerpt: "Research Group"
   - Darshan Crout (USRA), Summer 2014 (co-supervisor)
   - Warren Tennant (USRA), Summer 2013 (co-supervisor)
 - Visiting students
+  - Danilo Andrés Castañeda Baquedano, Feb-Mar, 2026
   - Luciano Andrés Gajardo Chamblas, Spring 2024
   - Patricio Ignacio Asenjo Torres, Spring 2023
   - Catalina Fernanda Opazo Obregon, Spring 2023
