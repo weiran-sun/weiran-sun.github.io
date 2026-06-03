@@ -16,6 +16,7 @@ excerpt: "Research Group"
 - Undergraduate research assistant
   - Rodrigo Stehling, Fall 2025-present
   - Anthony Chan, Summer 2026
+  - Kevin Wang, Summer 2026
   
 
 ### Past supervision
