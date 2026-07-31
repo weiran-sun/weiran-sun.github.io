@@ -10,7 +10,6 @@ excerpt: "Research Group"
 - PhD students
   - Luciano Andrés Gajardo Chamblas, 2025-present (senior supervisor)
   - Kshitij Patil, 2024-present (co-supervisor)
-  - Matt Spragge, 2022-present
 - MSc students
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
