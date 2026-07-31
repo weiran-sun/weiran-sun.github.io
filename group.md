@@ -7,15 +7,16 @@ excerpt: "Research Group"
 
 ### Current supervision
 
+- Postdoc
+  - Antoine Gagnebin, 2026-present (senior supervisor)
 - PhD students
   - Dariche Nguyen, 2026 - present (co-supervisor)
   - Luciano Andrés Gajardo Chamblas, 2025-present (senior supervisor)
   - Kshitij Patil, 2024-present (co-supervisor)
 - MSc students
+  - Anthony Chan, 2026-present (senior supervisor)
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
-  - Rodrigo Stehling, Fall 2025-present
-  - Anthony Chan, Summer 2026
   - Kevin Wang, Summer 2026
   
 
@@ -31,6 +32,8 @@ excerpt: "Research Group"
   - Hans Oeri, 2016-2018 (co-supervisor)
   - Xinyi Wang, 2014-2016 (co-supervisor)
 - Undergraduate students (USRA/VPR)
+  - Rodrigo Stehling, Fall 2025-Summer 2026
+  - Anthony Chan, Summer 2026
   - Kye Emond (USRA and research assistant), Summer 2024 - Summer 2025
   - Grayson Davis (USRA), Summer 2024
   - Jacques Van Dyk (USRA), Summer 2021
