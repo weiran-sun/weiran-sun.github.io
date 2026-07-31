@@ -8,6 +8,7 @@ excerpt: "Research Group"
 ### Current supervision
 
 - PhD students
+  - Dariche Nguyen, 2026 - present (co-supervisor)
   - Luciano Andrés Gajardo Chamblas, 2025-present (senior supervisor)
   - Kshitij Patil, 2024-present (co-supervisor)
 - MSc students
