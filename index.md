@@ -38,41 +38,8 @@ I also enjoy working with researchers in other disciplines and providing mathema
   
   <small> M.P. Gualdani and W. Sun, submitted, 2026. </small>
   
-- <i>Just accepted (Oct 2025) </i>:
-  
-  <small>[The $\mathcal{M}$-Operator and Uniqueness of Nonlinear Kinetic Equations](https://arxiv.org/abs/2506.20775) <small>
-  
-  <small>R. Alonso, M.P. Gualdani and W. Sun, Pure and Applied Functional Analysis, Special Issue on PDE and Applied Mathematics dedicated to Professor Peter Constantin on the occasion of his 75th Birthday, 2025.</small>
-
-- <i>**Congratulations to Kye Emond**</i>!
-
-  <small>Kye just won the Governor General’s Silver Medal, awarded to the two undergraduate students who achieve the highest scholastic standing upon graduation from a bachelor’s degree program. (See the announcement [here](https://www.sfu.ca/convocation/speakers-and-recipients/medal-recipients.html))</small>
-
-
-- <i>Just accepted (May 2025) </i>:
-
-  <small>[PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs](https://arxiv.org/abs/2502.00963)</small>
-
-  <small>M. Soroco, J. Song, M. Xia, K. Emond, W. Sun and W. Chen, accepted, ICML, 2025.</small>
-  
-- <i>Just submitted (Jan 2025)</i>:
-
-  <small>[Crossover from ballistic transport to normal diffusion: a kinetic view](https://arxiv.org/abs/2501.02240)</small>
-
-  <small>Z. Xue, W. Sun, Z. Zhou and M. Tang, submitted, 2025.</small>
-
-- <i>Just published</i>:
-  
-  <small>[Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation](https://www.ams.org/journals/mcom/2025-94-352/S0025-5718-2024-03975-3/home.html)
-  W. Sun and L. Wang, Math. Comp. 94, 681-725, 2025.</small> <small>[arXiv Link](https://arxiv.org/abs/2208.12302)</small>
 
 ### Upcoming trips
-
-- <small> March 24-April 30 2026: Visit to UT Austin, TX </small>
-
-- <small> April 1-April 3 2026: Visit to CMU, PA </small>
-
-- <small> June 16-19 2026: [10th Pacific Rim Conference of Mathematics](https://www.math.sinica.edu.tw/f59addca-1da6-47fd-9bb8-18d087da6088/posts/15598), NTU, Taipei</small>
 
 - <small> August 16-21 2026: [Recent Breakthroughs and New Perspectives on the Interplay between Fluid Mechanics and Kinetic Theory](https://www.birs.ca/events/2026/5-day-workshops/26w5611), Banff, AB, Canada</small>
 
