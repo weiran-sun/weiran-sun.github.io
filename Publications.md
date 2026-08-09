@@ -13,6 +13,8 @@ My papers and preprints can be found on [arXiv](https://arxiv.org/search/?query=
 <small><em>Student or postdoctoral co-authors are indicated by an asterisk.</em></small>
 1. <small>Uniqueness for the Homogeneous Landau-Coulomb Equation in $L^{3/2}$, M.P. Gualdani and W. Sun, submitted, 2026. </small>
 
+1. <small>Crossover from ballistic transport to normal diffusion: a kinetic view, Z. Xue\*, W. Sun, Z. Zhou and M. Tang, submitted, 2025.</small>  
+
 1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, accepted, SISC, 2026. </small>
 
 1. <small> Lean Finder: Semantic Search for Mathlib That Understands User Intents, Jialin Lu\*, Kye Emond\*, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026. </small>
@@ -21,7 +23,6 @@ My papers and preprints can be found on [arXiv](https://arxiv.org/search/?query=
 
 1. <small>PDE-Controller: LLMs for Autoformalization and Reasoning of PDEs , M. Soroco\*, J. Song\*, M. Xia\*, K. Emond\*, W. Sun and W. Chen, accepted, ICML, 2025. </small>  
 
-1. <small>Crossover from ballistic transport to normal diffusion: a kinetic view, Z. Xue\*, W. Sun, Z. Zhou and M. Tang, submitted, 2025.</small>  
 
 1. <small>Uniform error estimate of an asymptotic preserving scheme for the Levy-Fokker-Planck equation, W. Sun and L. Wang, Math. Comp. 94, 681-725, 2025.</small>  
 
