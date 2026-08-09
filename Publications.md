@@ -13,7 +13,7 @@ My papers and preprints can be found on [arXiv](https://arxiv.org/search/?query=
 <small><em>Student or postdoctoral co-authors are indicated by an asterisk.</em></small>
 1. <small>Uniqueness for the Homogeneous Landau-Coulomb Equation in $L^{3/2}$, M.P. Gualdani and W. Sun, submitted, 2026. </small>
 
-1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, submitted, 2025. </small>
+1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, accepted, SISC, 2026. </small>
 
 1. <small> Lean Finder: Semantic Search for Mathlib That Understands User Intents, Jialin Lu\*, Kye Emond\*, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026. </small>
 
