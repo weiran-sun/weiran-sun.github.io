@@ -14,6 +14,10 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
+- <I> Just accepted (June 2026) </I>:
+
+  <small> [The spectrum of the Steklov-Helmholtz operator](https://arxiv.org/abs/2509.07249) </small>
+
 - <i> **Our PDE Formalization Page Is Now Live!**
 
   <small> Check out the "Formalization" tab for details. We closely follow the textbook
