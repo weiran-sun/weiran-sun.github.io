@@ -49,7 +49,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <small> December 7-8, 2026, SLMath, Berkeley, CA </small>
 
-- <small> November 3-6, 2026, MSU </small>
+- <small> November 3-6, 2026, MSU, MI </small>
 
 - <small> August 16-21 2026: [Recent Breakthroughs and New Perspectives on the Interplay between Fluid Mechanics and Kinetic Theory](https://www.birs.ca/events/2026/5-day-workshops/26w5611), Banff, AB, Canada</small>
 
