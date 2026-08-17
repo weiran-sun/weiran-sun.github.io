@@ -18,6 +18,8 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
   <small> [The spectrum of the Steklov-Helmholtz operator](https://arxiv.org/abs/2509.07249) </small>
 
+  <small> N. Nigam, K. Patil* and W. Sun, accepted, SISC, 2026 </small>
+
 - <i> **Our PDE Formalization Page Is Now Live!**
 
   <small> Check out the "Formalization" tab for details. We closely follow the textbook
