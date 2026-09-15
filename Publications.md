@@ -15,7 +15,7 @@ My papers and preprints can be found on [arXiv](https://arxiv.org/search/?query=
 
 1. <small>Crossover from ballistic transport to normal diffusion: a kinetic view, Z. Xue\*, W. Sun, Z. Zhou and M. Tang, Multiscale Model. Simul., accepted, 2026.</small>  
 
-1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, accepted, SISC, 2026. </small>
+1. <small>The spectrum of the Steklov-Helmholtz operator, N. Nigam, K. Patil\* and W. Sun, SIAM J SCI COMPUT., accepted, 2026. </small>
 
 1. <small> Lean Finder: Semantic Search for Mathlib That Understands User Intents, Jialin Lu\*, Kye Emond\*, Kaiyu Yang, Swarat Chaudhuri, Weiran Sun, Wuyang Chen, accepted, ICLR, 2026. </small>
 
