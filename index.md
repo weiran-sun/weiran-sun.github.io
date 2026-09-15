@@ -57,7 +57,6 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 - <small> November 3-6, 2026, MSU, MI </small>
 
-- <small> August 16-21 2026: [Recent Breakthroughs and New Perspectives on the Interplay between Fluid Mechanics and Kinetic Theory](https://www.birs.ca/events/2026/5-day-workshops/26w5611), Banff, AB, Canada</small>
 
 
 <small><em>Feature image: [Sunset outside the SFU Math department](https://weiran-sun.github.io/assets/images/Math-Sunset.png)</em></small>  
