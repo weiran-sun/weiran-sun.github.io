@@ -14,6 +14,10 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
+- <I> Just accepte (Sep 2026) </I>:
+  <small> [Crossover from ballistic transport to normal diffusion: a kinetic view](https://arxiv.org/abs/2501.02240) </small>
+  <small> Z. Xue*, W. Sun, Z. Zhou and M. Tang, Multiscale Model. Simul., accepted, 2026. </small>
+
 - <I> Just accepted (June 2026) </I>:
 
   <small> [The spectrum of the Steklov-Helmholtz operator](https://arxiv.org/abs/2509.07249) </small>
