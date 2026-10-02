@@ -14,6 +14,8 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
+- ### Congratulations to Rodrigo for winning the Department of Mathematics Award for research excellent!
+
 - <I> Just accepte (Sep 2026) </I>:
   
   <small> [Crossover from ballistic transport to normal diffusion: a kinetic view](https://arxiv.org/abs/2501.02240) </small>
