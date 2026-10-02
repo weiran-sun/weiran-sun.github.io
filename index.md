@@ -14,7 +14,7 @@ I also enjoy working with researchers in other disciplines and providing mathema
 
 ### News
 
-- Congratulations to Rodrigo for winning the Department of Mathematics Award for research excellent!
+- Congratulations to Rodrigo on being one of the three recipients of the Department of Mathematics Award for Research Excellence!
 
 - <I> Just accepte (Sep 2026) </I>:
   
