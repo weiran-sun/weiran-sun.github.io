@@ -17,7 +17,8 @@ excerpt: "Research Group"
   - Anthony Chan, 2026-present (senior supervisor)
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
-  - Kevin Wang, Summer 2026-present (senior supervisor)
+  - Kevin Wang, Summer 2026-present (co-supervisor)
+  - Rodrigo Stehling, Fall 2025-present (senior supervisor)
   
 
 ### Past supervision
