@@ -14,7 +14,7 @@ excerpt: "Research Group"
   - Luciano Andrés Gajardo Chamblas, 2025-present (senior supervisor)
   - Kshitij Patil, 2024-present (co-supervisor)
 - MSc students
-  - Anthony Chan, 2026-present (senior supervisor)
+  - Kin Fai Anthony Chan, 2026-present (senior supervisor)
   - Yuxuan Mao, 2024-present (co-supervisor)
 - Undergraduate research assistant
   - Kevin Wang, Summer 2026-present (co-supervisor)
@@ -33,7 +33,7 @@ excerpt: "Research Group"
   - Hans Oeri, 2016-2018 (co-supervisor)
   - Xinyi Wang, 2014-2016 (co-supervisor)
 - Undergraduate students (USRA/VPR)
-  - Anthony Chan, Summer 2026
+  - Kin Fai Anthony Chan, Summer 2026
   - Kye Emond (USRA and research assistant), Summer 2024 - Summer 2025
   - Grayson Davis (USRA), Summer 2024
   - Jacques Van Dyk (USRA), Summer 2021
